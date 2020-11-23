@@ -1,0 +1,28 @@
+(6)
+#include<stdio.h>
+#include<stdlib.h>
+void main(void)
+{
+	int n1, n2;		//宣告整數變數n1,n2
+	n1 = 6;			//宣告初始值n1
+	n2 = 8;			//宣告初始值n2
+	printf("%d,%d", n1,n2);	//印出整數變數n1,n2
+	system("pause");	//暫停畫面
+}
+(7)
+宣告時設值、宣告後設值
+1. int n = 36;
+2. int n; n = 36; 
+(8)
+識別字是用來命名變數或函數的文字
+命名規則:第一個字元不能是數字、不能使用空白字元或底線以外的特殊符號、有大小寫之分
+(9)
+artist, A1234, pentium4, __six, println, ChinaTimes, Y2K, TOMBO, NO1
+(10)
+關鍵字是編譯程式本身所使用的識別字
+如int, char, long, if, else, break, continue, for, while, void
+(11)
+(a) std_height (b) std_age (c) pi (d) area
+(12)
+語法錯誤是程式含有不合語法的敘述，它無法被編譯程式翻譯。
+語意錯誤又稱邏輯錯誤，程式本身的語法正確，但執行結果錯誤。

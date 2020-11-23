@@ -1,0 +1,5 @@
+﻿  2.cpp
+C:\Users\AllenDuma\Desktop\程式語言作業\Homework 3 if\2.cpp(17,25): warning C4804: '>=': 作業中不安全的使用類型 'bool'
+C:\Users\AllenDuma\Desktop\程式語言作業\Homework 3 if\2.cpp(21,30): warning C4804: '>=': 作業中不安全的使用類型 'bool'
+C:\Users\AllenDuma\Desktop\程式語言作業\Homework 3 if\2.cpp(25,30): warning C4804: '>=': 作業中不安全的使用類型 'bool'
+  Project2.vcxproj -> C:\Users\AllenDuma\Desktop\程式語言作業\Homework 3 if\Project2\Debug\Project2.exe
