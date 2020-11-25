@@ -1,0 +1,4 @@
+﻿  PracticeDebug.cpp
+C:\Users\AllenDuma\Desktop\程式語言作業\Homework 8 function (localglobal)\PracticeDebug\PracticeDebug\PracticeDebug.cpp(8,1): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+C:\Users\AllenDuma\Desktop\程式語言作業\Homework 8 function (localglobal)\PracticeDebug\PracticeDebug\PracticeDebug.cpp(31,12): warning C4805: '==': 作業中不安全的混用類型 'int' 和類型 'bool'
+  PracticeDebug.vcxproj -> C:\Users\AllenDuma\Desktop\程式語言作業\Homework 8 function (localglobal)\PracticeDebug\Debug\PracticeDebug.exe
