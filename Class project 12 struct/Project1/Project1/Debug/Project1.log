@@ -1,0 +1,5 @@
+﻿  1.cpp
+C:\Users\AllenDuma\Desktop\程式語言作業\Class project 12 struct\Project1\Project1\1.cpp(22,1): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+C:\Users\AllenDuma\Desktop\程式語言作業\Class project 12 struct\Project1\Project1\1.cpp(64,13): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\AllenDuma\Desktop\程式語言作業\Class project 12 struct\Project1\Project1\1.cpp(67,14): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Project1.vcxproj -> C:\Users\AllenDuma\Desktop\程式語言作業\Class project 12 struct\Project1\Debug\Project1.exe
